@@ -5,7 +5,7 @@ TODO:
 - [ ] Mod przednich idlerów
 - [ ] Mod endstopów
 - [x] Modyfikacja złącza prawego
-- [ ] Modyfikacja złącza lewego
+- [x] Modyfikacja złącza lewego
 - [x] Model bloków łożysk
-- [ ] Zamiana pocznych łożysk linowych na okrągłe prowadnice mocowanie na końcach profili kołnierzem
-- [x] Wyciągnać boczne profile do przodu o 50
+- [ ] Zamiana bocznych łożysk linowych na okrągłe prowadnice mocowanie na końcach profili kołnierzem
+- [x] Wyciągnać boczne profile do przodu o 50 mm

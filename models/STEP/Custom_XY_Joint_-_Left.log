@@ -1,0 +1,31 @@
+Translacja Solid Edge do STEP
+Data: Wednesday,March 27,2024 01:54PM
+Plik wynikowy: C:\Users\admin\Desktop\drukarka_modele\models\STEP\Custom_XY_Joint_-_Left.stp
+Autor: Unknown
+Organizacja: Unknown
+System Ÿród³owy: Solid Edge
+
+Sprzêt:
+Procesor: Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz
+System operacyjny: Windows 10 Professional Version:22H2 Build:19045 System Type:64-bit
+Zainstalowana pamiêæ: 7.88 GB
+
+Informacje o oprogramowaniu
+Wersja Parasolid: 36.0.142
+Wersja PSBodyShop: 36.0.108
+Wersja adaptera Step: 13.0.163
+Wersja Solid Edge: 224.00.00.101 x64
+
+Opcje eksportu STEP
+Format eksportu: AP214
+Eksport arkuszy konstrukcyjnych: Wy³¹cz
+Eksport bry³ konstrukcyjnych: Wy³¹cz
+Eksport przewodów konstrukcyjnych: Wy³¹cz
+Eksport tylko wyœwietlanych czêœci: Wy³¹cz
+Eksport jednostek: Millimeters
+Eksportuj nazwy sk³adników czêœci w formacie Unicode: Wy³¹cz
+Eksportuj PMI: Wy³¹cz
+
+Faza 1 z 1 rozpoczynania procesu translacji pliku Parasolid do innych typów danych...
+Proces translacji zosta³ zakoñczony
+Czas wymagany do translacji:00 : 00 : 01
