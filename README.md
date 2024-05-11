@@ -7,5 +7,5 @@ TODO:
 - [x] Modyfikacja złącza prawego
 - [x] Modyfikacja złącza lewego
 - [x] Model bloków łożysk
-- [ ] Zamiana bocznych łożysk linowych na okrągłe prowadnice mocowanie na końcach profili kołnierzem
+- [x] Zamiana bocznych łożysk linowych na okrągłe prowadnice mocowanie na końcach profili kołnierzem
 - [x] Wyciągnać boczne profile do przodu o 50 mm
