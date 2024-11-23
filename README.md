@@ -16,6 +16,3 @@ Projekt drukarki 3D Core XY na bazie Voron 2.
 - [x] Model bloków łożysk
 - [x] Zamiana bocznych łożysk linowych na okrągłe prowadnice mocowanie na końcach profili kołnierzem
 - [x] Wyciągnać boczne profile do przodu o 50 mm
-
-## Autorzy
-Szymon Bartosik
