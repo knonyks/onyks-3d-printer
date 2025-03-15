@@ -8,7 +8,7 @@ Projekt drukarki 3D Core XY na bazie Voron 2.
 ## TODO
 - [ ] Podstawa i rama
 - [ ] Oś Z
-- [ ] Wydruk i montaż głowicy
+- [x] Wydruk i montaż głowicy
 - [ ] Mod przednich idlerów
 - [ ] Mod endstopów
 - [x] Modyfikacja złącza prawego
@@ -16,6 +16,11 @@ Projekt drukarki 3D Core XY na bazie Voron 2.
 - [x] Model bloków łożysk
 - [x] Zamiana bocznych łożysk linowych na okrągłe prowadnice mocowanie na końcach profili kołnierzem
 - [x] Wyciągnać boczne profile do przodu o 50 mm
+
+## Gantry
+
+![Gantry Front](./img/gantry_front.png)
+![Gantry Back](./img/gantry_back.png)
 
 ## Autorzy
 Szymon Bartosik
